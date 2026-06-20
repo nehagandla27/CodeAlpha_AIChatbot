@@ -1,0 +1,22 @@
+[
+  {
+    "question":"hello",
+    "answer":"Hello! How can I help you?"
+  },
+  {
+    "question":"hi",
+    "answer":"Hi! Welcome to our website."
+  },
+  {
+    "question":"services",
+    "answer":"We provide cloud computing services."
+  },
+  {
+    "question":"contact",
+    "answer":"Email us at support@example.com"
+  },
+  {
+    "question":"bye",
+    "answer":"Goodbye! Have a great day."
+  }
+]
